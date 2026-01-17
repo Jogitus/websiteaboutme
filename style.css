@@ -1,6 +1,6 @@
 h1{
     font-family: 'Courier New', Courier, monospace;
-    text-decoration-line: underline;
+    /* text-decoration-line: underline; */
     font-size: 18px;
     align-self: center;
 }
