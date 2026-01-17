@@ -1,17 +1,5 @@
 h2{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 21px;
-    text-align: center;
-    font-style: italic;
-}
-p{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
-    text-align: center;
-    font-style: italic;
-}
-h2{
-    font-family: 'Courier New', Courier, monospace;
     font-size: 26px;
     text-align: center;
     font-style: italic;
@@ -22,4 +10,28 @@ p{
     font-size: 22px;
     text-align: center;
     font-style: italic;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px;
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px;
+}
+h5{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px;
+}
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px;
 }
