@@ -1,13 +1,13 @@
 h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     text-decoration-line: underline;
     font-size: 18px;
 }
 h2{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
 p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 12px;
 }
