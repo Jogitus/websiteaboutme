@@ -1,14 +1,17 @@
 h1{
     font-family: 'Courier New', Courier, monospace;
     /* text-decoration-line: underline; */
-    font-size: 18px;
-    align-self: center;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
 }
 h2{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
+    text-align: center;
 }
 p{
     font-family: 'Courier New', Courier, monospace;
     font-size: 12px;
+    text-align: center;
 }
