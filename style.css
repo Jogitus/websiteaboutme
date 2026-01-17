@@ -10,3 +10,16 @@ p{
     text-align: center;
     font-style: italic;
 }
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    text-align: center;
+    font-style: italic;
+}
