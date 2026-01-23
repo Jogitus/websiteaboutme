@@ -67,7 +67,7 @@ body::after{
     text-align: left;
     font-style: italic;
     font-weight: bold;
-    box-shadow: 2px 2px 4px;
+    text-shadow: 2px 2px 4px;
 }
 
 .keskikuva {
