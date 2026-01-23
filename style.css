@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
 
+body::after{
+    position:absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+    content: url(https://r0.image2url.com/images/1765731303822-d003b0d5-9841-4d07-9be4-52c5ea6327c3.jpg);
+}
+
 .etuotsikko{
     font-family: "Pirata One", system-ui;
     font-size: 114px;
@@ -58,7 +67,7 @@
     text-align: left;
     font-style: italic;
     font-weight: bold;
-    text-shadow: 2px 2px 4px;
+    box-shadow: 2px 2px 4px;
 }
 
 .keskikuva {
@@ -66,6 +75,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 .blogiteksti{
