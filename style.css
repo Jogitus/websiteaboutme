@@ -99,3 +99,11 @@ body::after{
     margin-left: 200px;
     margin-right: 200px;
 }
+
+.sivuotsikko{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px;
+}
